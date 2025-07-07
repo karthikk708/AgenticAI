@@ -1,0 +1,110 @@
+====================================================
+🧠 Deep Website Metadata Report
+====================================================
+
+🌍 Website URL       : https://npdigital.com
+🔗 Final Loaded URL  : https://npdigital.com/
+🧩 Canonical URL     : https://npdigital.com/
+
+🏷️ Page Title        : Global award-winning digital marketing agency. NP Digital
+📝 Meta Description  : We’re an end-to-end global digital marketing agency built by marketers, for marketers.
+🏷️ Meta Keywords     : N/A
+
+📘 Open Graph Title       : Global award-winning digital marketing agency. NP Digital
+📘 Open Graph Description : We’re an end-to-end global digital marketing agency built by marketers, for marketers.
+📘 Open Graph Image       : https://npdigital.com/wp-content/uploads/2025/03/npd-us-preview.jpg
+📘 Open Graph URL         : https://npdigital.com/
+
+📦 Structured Data (JSON-LD) Summary:
+-------------------------------------
+| Key        | Value                           |
+|------------|-----------------------------------|
+| @context   | https://schema.org                  |
+| @graph     | [{"@type": "WebPage", "@id": "https |
+|------------|-----------------------------------|
+
+
+📦 Structured Data (JSON-LD) Full:
+----------------------------------
+[
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://npdigital.com/",
+        "url": "https://npdigital.com/",
+        "name": "Global award-winning digital marketing agency. NP Digital",
+        "isPartOf": {
+          "@id": "https://npdigital.com/#website"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://npdigital.com/#primaryimage"
+        },
+        "image": {
+          "@id": "https://npdigital.com/#primaryimage"
+        },
+        "thumbnailUrl": "https://npdigital.com/wp-content/uploads/2025/03/npd-us-preview.jpg",
+        "datePublished": "2022-01-25T14:34:31+00:00",
+        "dateModified": "2025-07-06T21:52:14+00:00",
+        "description": "We’re an end-to-end global digital marketing agency built by marketers, for marketers.",
+        "breadcrumb": {
+          "@id": "https://npdigital.com/#breadcrumb"
+        },
+        "inLanguage": "en-US",
+        "potentialAction": [
+          {
+            "@type": "ReadAction",
+            "target": [
+              "https://npdigital.com/"
+            ]
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "inLanguage": "en-US",
+        "@id": "https://npdigital.com/#primaryimage",
+        "url": "https://npdigital.com/wp-content/uploads/2025/03/npd-us-preview.jpg",
+        "contentUrl": "https://npdigital.com/wp-content/uploads/2025/03/npd-us-preview.jpg",
+        "width": 541,
+        "height": 541
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://npdigital.com/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home"
+          }
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://npdigital.com/#website",
+        "url": "https://npdigital.com/",
+        "name": "NPD Global",
+        "description": "",
+        "potentialAction": [
+          {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://npdigital.com/?s={search_term_string}"
+            },
+            "query-input": {
+              "@type": "PropertyValueSpecification",
+              "valueRequired": true,
+              "valueName": "search_term_string"
+            }
+          }
+        ],
+        "inLanguage": "en-US"
+      }
+    ]
+  }
+]
+
+====================================================
